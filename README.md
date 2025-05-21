@@ -1,10 +1,9 @@
-## Abhinav Srinivasan | Software Engineer
+# Abhinav Srinivasan | Software Engineer
 
-## Education
 University of Pittsburgh Aug. 2021 – Dec 2024
 B.S. Computer Science & B.S. Data Science
 
-### 🚀 Featured Projects
+## Featured Projects
 
 **Diabetes&Me** - Flutter healthcare app with AWS serverless backend
 - 99.95% availability with sub-120ms response time
