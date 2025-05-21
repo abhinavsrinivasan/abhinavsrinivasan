@@ -1,7 +1,6 @@
-# Abhinav Srinivasan | Software Engineer
+# Abhinav Srinivasan - Software Engineer
 
-University of Pittsburgh Aug. 2021 – Dec 2024
-B.S. Computer Science & B.S. Data Science
+University of Pittsburgh | B.S. Computer Science & B.S. Data Science | Aug. 2021 – Dec 2024
 
 ## Featured Projects
 
