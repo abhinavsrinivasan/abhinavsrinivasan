@@ -6,7 +6,6 @@ University of Pittsburgh | B.S. Computer Science & B.S. Data Science | Aug. 2021
 
 **Diabetes&Me** - Flutter healthcare app with AWS serverless backend
 - 99.95% availability with sub-120ms response time
-- 72% cost reduction vs traditional architecture
 
 **PriorAuth** - Healthcare authorization API (.NET 8)
 - Clean architecture with separation of concerns
